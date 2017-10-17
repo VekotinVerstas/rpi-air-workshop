@@ -8,6 +8,14 @@ Components:
 * Power bank
 * Casing
 
+Parts connected and inside the casing:
+
+<img src="https://github.com/VekotinVerstas/rpi-air-workshop/blob/master/images/connected_in_box.jpg?raw=true" width="500">
+
+"Schematic" for connecting the BME280 sensor to the GPIO pins in the Raspberry Pi:
+
+<img src="https://github.com/VekotinVerstas/rpi-air-workshop/blob/master/images/bme280_schematic.jpg?raw=true" width="400">
+
 Once sensors are connected, connect the power bank, and the RPi should power up, indicated by a green light. Booting the device and starting up the bluetooth service takes approximately two minutes.
 
 ### Bt2Cloud (Android-application)
