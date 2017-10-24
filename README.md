@@ -1,5 +1,9 @@
 # Workshop on crowdsourced data gathering
 
+### Further information
+* Sensor box software [repository](https://github.com/VekotinVerstas/RPiSensorBox), contains source code and installation instructions
+* Bt2Cloud android application [source code repository](https://github.com/City-of-Helsinki/bt2cloud) and [downloadable installer package](https://github.com/City-of-Helsinki/bt2cloud-app/releases/download/v1.0.0rc/bt2cloud-release_v1.0.0rc.apk)
+
 ### Sensor box
 Components:
 * Raspberry Pi Zero W
